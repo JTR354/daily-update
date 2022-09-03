@@ -1,7 +1,6 @@
 ### 每日记录
 daily update
 
-
 ### 插件
 - [Obsidian](https://obsidian.md/)
 - Calendar
